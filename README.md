@@ -1,2 +1,2 @@
 # Repository overview
-Static resources for QR Code Rapid API
+Static files for QR Code Rapid API
