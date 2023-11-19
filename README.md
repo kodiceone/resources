@@ -1,2 +1,2 @@
 # resources
-Static resources for QR Code project
+Static resources for QR Code Rapid API
